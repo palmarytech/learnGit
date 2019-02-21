@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 
 新的分支dev工作开始
 
+处理bug
+
