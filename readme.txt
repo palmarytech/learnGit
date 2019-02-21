@@ -7,6 +7,5 @@ Create branch is quick.
 Creating a new branch is quick and simple.
 
 新的分支dev工作开始
-
 dev的工作刚开始一半
 
